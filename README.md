@@ -27,7 +27,7 @@ By following these approaches, developers can consistently create software that 
 
 The full whitepaper PDF is included in this repository:
 
-- `Agile7_WhitePaper_EnergyEfficiencyTacticsInSoftwareArchitectureAndImplementation.pdf`
+- [Agile7_WhitePaper_EnergyEfficiencyTacticsInSoftwareArchitectureAndImplementation.pdf](https://github.com/mmeinhar/Energy-Efficiency-Tactics-in-Software-Architecture-and-Implementation/blob/main/Agile7_WhitePaper_EnergyEfficiencyTacticsInSoftwareArchitectureAndImplementation.pdf)
 
 ---
 
