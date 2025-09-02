@@ -21,3 +21,22 @@ As energy costs rise and renewable energy adoption accelerates, the importance o
 
 By following these approaches, developers can consistently create software that is both **performant and energy-efficient**.
 
+---
+
+## Getting the Whitepaper
+
+The full whitepaper PDF is included in this repository:
+
+- `Agile7_WhitePaper_EnergyEfficiencyTacticsInSoftwareArchitectureAndImplementation.pdf`
+
+---
+
+## License
+
+This project is **open-source**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## About the Author
+
+**Max Meinhardt** – Founder of [Agile7](https://agile7.com), software architect with expertise in enterprise software design, AI-driven platforms, and model-based engineering.  
