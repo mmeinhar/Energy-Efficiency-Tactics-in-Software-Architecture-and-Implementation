@@ -1,42 +1,36 @@
 # Energy-Efficiency Tactics in Software Architecture and Implementation
 
-**Agile7 Whitepaper — Open Source**  
-**Document Version:** v1.3  
-**Date:** August 19, 2025  
-**Author:** Max Meinhardt  
-[Agile7](https://www.agile7.com) | Contact: maxm@agile7.com  
+[![DOI](https://zenodo.org/badge/1049346122.svg)](https://doi.org/10.5281/zenodo.20558750)
 
----
+**Version DOI (v1.4):** https://doi.org/10.5281/zenodo.20558750  
+**Concept DOI (Latest Version):** https://doi.org/10.5281/zenodo.20558751
 
-## Executive Summary
+## Overview
 
-In recent decades, software development has prioritized modularity and economies of scale, enabling rapid and cost-effective implementation. However, this trend has often compromised **energy efficiency**.
+This Agile7 whitepaper examines software architecture, implementation, and monitoring tactics that can improve software energy efficiency while maintaining acceptable performance.
 
-As energy costs rise and renewable energy adoption accelerates, the importance of energy-efficient software processes, tools, and best practices has grown significantly. To address this, it is essential to:
+Topics include:
 
-- Identify software architecture and implementation tactics that improve energy efficiency.  
-- Minimize negative impacts on application speed.  
-- Incorporate energy efficiency during software architecture design.  
-- Automate these practices using simple and transparent DevOps tools.  
+- Resource allocation
+- Resource adaptation
+- Code optimization
+- Parallelism and DVFS
+- AI system optimization
+- Energy monitoring and measurement
 
-By following these approaches, developers can consistently create software that is both **performant and energy-efficient**.
+## Whitepaper
 
----
+- [Download the PDF](Agile7_WhitePaper_EnergyEfficiencyTacticsInSoftwareArchitectureAndImplementation.pdf)
 
-## Getting the Whitepaper
+## Citation
 
-The full whitepaper PDF is included in this repository:
+> Meinhardt, M. (2026). *Energy-Efficiency Tactics in Software Architecture and Implementation*. Zenodo. https://doi.org/10.5281/zenodo.20558750
 
-- [Agile7_WhitePaper_EnergyEfficiencyTacticsInSoftwareArchitectureAndImplementation.pdf](https://github.com/mmeinhar/Energy-Efficiency-Tactics-in-Software-Architecture-and-Implementation/blob/main/Agile7_WhitePaper_EnergyEfficiencyTacticsInSoftwareArchitectureAndImplementation.pdf)
+## Author
 
----
+Max Meinhardt  
+https://www.agile7.com
 
 ## License
 
-This project is **open-source**. See the [LICENSE](LICENSE) file for details.
-
----
-
-## About the Author
-
-**Max Meinhardt** – Founder of [Agile7](https://agile7.com), software architect with expertise in enterprise software design, AI-driven platforms, and model-based engineering.  
+See the [LICENSE](LICENSE) file.
